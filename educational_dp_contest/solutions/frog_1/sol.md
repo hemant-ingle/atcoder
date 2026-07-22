@@ -1,4 +1,4 @@
-**Time Complexity:** *O(n),* **Space Complexity:** *O(n).*
+**Time Complexity:** *O(N),* **Space Complexity:** *O(N).*
 
 ```cpp
 #include<bits/stdc++.h>

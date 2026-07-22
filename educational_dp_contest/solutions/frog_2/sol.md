@@ -1,3 +1,6 @@
+**Time Complexity:** *O(N × K),* **Space Complexity:** *O(N).*
+
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -25,3 +28,4 @@ int main()
     cout<<dp[N-1]<<"\n";
     return 0;
 }
+```
