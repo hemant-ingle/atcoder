@@ -9,22 +9,21 @@
 | F. | [**LCS**](https://atcoder.jp/contests/dp/tasks/dp_f) | :white_check_mark: | [:link:](solutions/lcs/top_down/sol.md) | [:link:](solutions/lcs/bottom_up/sol.md) | |
 | G. | [**Longest Path**](https://atcoder.jp/contests/dp/tasks/dp_g) | | | | |
 | H. | [**Grid 1**](https://atcoder.jp/contests/dp/tasks/dp_h) | :white_check_mark: | [:link:](solutions/grid_1/sol.md) | | |
-| I. | [**Coins**](https://atcoder.jp/contests/dp/tasks/dp_i) | :white_check_mark: | | | |
-| J. | [**Sushi**](https://atcoder.jp/contests/dp/tasks/dp_j) | :white_check_mark: | | | |
-| K. | [**Stones**](https://atcoder.jp/contests/dp/tasks/dp_k) | :white_check_mark: | | | |
-| L. | [**Deque**](https://atcoder.jp/contests/dp/tasks/dp_l) | :white_check_mark: | | | |
-| M. | [**Candies**](https://atcoder.jp/contests/dp/tasks/dp_m) | :white_check_mark: | | | |
-| N. | [**Slimes**](https://atcoder.jp/contests/dp/tasks/dp_n) | :white_check_mark: | | | |
-| O. | [**Matching**](https://atcoder.jp/contests/dp/tasks/dp_o) | :white_check_mark: | | | |
-| P. | [**Independent Set**](https://atcoder.jp/contests/dp/tasks/dp_p) | :white_check_mark: | | | |
-| Q. | [**Flowers**](https://atcoder.jp/contests/dp/tasks/dp_q) | :white_check_mark: | | | |
-| R. | [**Walk**](https://atcoder.jp/contests/dp/tasks/dp_r) | :white_check_mark: | | | |
-| S. | [**Digit Sum**](https://atcoder.jp/contests/dp/tasks/dp_s) | :white_check_mark: | | | |
-| T. | [**Permutation**](https://atcoder.jp/contests/dp/tasks/dp_t) | :white_check_mark: | | | |
-| U. | [**Grouping**](https://atcoder.jp/contests/dp/tasks/dp_u) | :white_check_mark: | | | |
-| V. | [**Subtree**](https://atcoder.jp/contests/dp/tasks/dp_v) | :white_check_mark: | | | |
-| W. | [**Intervals**](https://atcoder.jp/contests/dp/tasks/dp_w) | :white_check_mark: | | | |
-| X. | [**Tower**](https://atcoder.jp/contests/dp/tasks/dp_x) | :white_check_mark: | | | |
-| Y. | [**Grid 2**](https://atcoder.jp/contests/dp/tasks/dp_y) | :white_check_mark: | | | |
-| Z. | [**Frog 3**](https://atcoder.jp/contests/dp/tasks/dp_z) | :white_check_mark: | | | |
-
+| I. | [**Coins**](https://atcoder.jp/contests/dp/tasks/dp_i) | | | | |
+| J. | [**Sushi**](https://atcoder.jp/contests/dp/tasks/dp_j) |  | | | |
+| K. | [**Stones**](https://atcoder.jp/contests/dp/tasks/dp_k) | | | | |
+| L. | [**Deque**](https://atcoder.jp/contests/dp/tasks/dp_l) | | | | |
+| M. | [**Candies**](https://atcoder.jp/contests/dp/tasks/dp_m) | | | | |
+| N. | [**Slimes**](https://atcoder.jp/contests/dp/tasks/dp_n) | | | | |
+| O. | [**Matching**](https://atcoder.jp/contests/dp/tasks/dp_o) | | | | |
+| P. | [**Independent Set**](https://atcoder.jp/contests/dp/tasks/dp_p) | | | | |
+| Q. | [**Flowers**](https://atcoder.jp/contests/dp/tasks/dp_q) | | | | |
+| R. | [**Walk**](https://atcoder.jp/contests/dp/tasks/dp_r) | | | | |
+| S. | [**Digit Sum**](https://atcoder.jp/contests/dp/tasks/dp_s) | | | | |
+| T. | [**Permutation**](https://atcoder.jp/contests/dp/tasks/dp_t) | | | | |
+| U. | [**Grouping**](https://atcoder.jp/contests/dp/tasks/dp_u) | | | | |
+| V. | [**Subtree**](https://atcoder.jp/contests/dp/tasks/dp_v) | | | | |
+| W. | [**Intervals**](https://atcoder.jp/contests/dp/tasks/dp_w) | | | | |
+| X. | [**Tower**](https://atcoder.jp/contests/dp/tasks/dp_x) | | | | |
+| Y. | [**Grid 2**](https://atcoder.jp/contests/dp/tasks/dp_y) | | | | |
+| Z. | [**Frog 3**](https://atcoder.jp/contests/dp/tasks/dp_z) | | | | |
