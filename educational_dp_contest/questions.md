@@ -6,7 +6,7 @@
 | C. | [**Vacation**](https://atcoder.jp/contests/dp/tasks/dp_c) | :white_check_mark: | - | [:link:](solutions/vacation/bottom_up/sol.md) | *Bottom-up approach is more intuitive.* |
 | D. | [**Knapsack 1**](https://atcoder.jp/contests/dp/tasks/dp_d) | :white_check_mark: | [:link:](solutions/knapsack_1/top_down/sol.md) | [:link:](solutions/knapsack_1/bottom_up/sol.md) | |
 | E. | [**Knapsack 2**](https://atcoder.jp/contests/dp/tasks/dp_e) | :white_check_mark: | [:link:](solutions/knapsack_2/top_down/sol.md) | [:link:](solutions/knapsack_2/bottom_up/sol.md) | |
-| F. | [**LCS**](https://atcoder.jp/contests/dp/tasks/dp_f) | :white_check_mark: | | [:link:](solutions/lcs/sol.md) | |
+| F. | [**LCS**](https://atcoder.jp/contests/dp/tasks/dp_f) | :white_check_mark: | [:link:](solutions/lcs/top_down/sol.md) | [:link:](solutions/lcs/bottom_up/sol.md) | |
 | G. | [**Longest Path**](https://atcoder.jp/contests/dp/tasks/dp_g) | | | | |
 | H. | [**Grid 1**](https://atcoder.jp/contests/dp/tasks/dp_h) | :white_check_mark: | | [:link:](solutions/grid_1/sol.md) | |
 
