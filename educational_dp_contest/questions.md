@@ -1,7 +1,7 @@
 # [AtCoder - <em>Educational DP Contest</em>](https://atcoder.jp/contests/dp/tasks)
 | | Question | Status | Remarks | Top Down | Bottom Up | Notes |
 | :---: | -------- | :----: | ------- | :------: | :------: | ----- |
-| A. | [**Frog 1**](https://atcoder.jp/contests/dp/tasks/dp_a) | :white_check_mark: | | | [:link:](solutions/frog_1/bottom_up/sol.md) | |
+| A. | [**Frog 1**](https://atcoder.jp/contests/dp/tasks/dp_a) | :white_check_mark: | | [:link:](solutions/frog_1/top_down/sol.md) | [:link:](solutions/frog_1/bottom_up/sol.md) | |
 | B. | [**Frog 2**](https://atcoder.jp/contests/dp/tasks/dp_b) | :white_check_mark: | | | [:link:](solutions/frog_2/sol.md) | |
 | C. | [**Vacation**](https://atcoder.jp/contests/dp/tasks/dp_c) | :white_check_mark: | | | [:link:](solutions/vacation/sol.md) | |
 | D. | [**Knapsack 1**](https://atcoder.jp/contests/dp/tasks/dp_d) | :white_check_mark: | | | [:link:](solutions/knapsack_1/sol.md) | |
