@@ -32,7 +32,7 @@ int main()
             lcs.push_back(s[i-1]);
             i--;
             j--;
-        } else if(solve(i-1, j, s, t, dp) >= solve(i, j-1, s, t, dp)) {
+        } else if(dp[i-1][j] >= dp[i][j-1]) {
             i--;
         } else {
             j--;
